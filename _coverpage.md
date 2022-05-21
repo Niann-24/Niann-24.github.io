@@ -1,8 +1,8 @@
 <img width="400px" src="img/img.png">
 
-### **年年**
+### **adore 鱼^_^**
 
-个人学习过程中的笔记，目前主要包括 Java,
+Java从入门到入土，从Hello World到NIO学完直接原地起飞
 
 
 [javaSE](JavaSE/JavaSE笔记（一）.md)
