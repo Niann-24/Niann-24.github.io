@@ -2,7 +2,7 @@
 
 ### **adore 鱼^_^**
 
-Java从入门到入土，从Hello World到NIO学完直接原地起飞
+Java从入门到入土，从Hello World直接到NIO学完直接原地起飞,面试脚踩HR,看完直接抬进大厂,你就是最强的卷王之王！
 
 
 [javaSE](JavaSE/JavaSE笔记（一）.md)
